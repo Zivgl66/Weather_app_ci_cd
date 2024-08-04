@@ -63,7 +63,7 @@ The Weather App project aims to provide users with up-to-date weather informatio
 
 <!-- ![alt text](assets/images/Architecture.png "VPC Architecture") -->
 
-![alt text](assets/images/UMLdiagrams.png "VPC Architecture")
+![alt text](assets/images/UML_diagram.png "VPC Architecture")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
